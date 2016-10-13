@@ -20,6 +20,12 @@ DynamicLable2.backgroundColor=UIColor(red:1.00, green:0.41, blue:0.71, alpha:1.0
 DynamicLable2.text = "lable2"
 
 
+var datepicker = UIDatePicker()
+datepicker.datePickerMode = .Date
+
+let date = UIDatePicker()
+date.datePickerMode = .Date
+
 
 
 
